@@ -24,6 +24,8 @@ A helper library for working with ajax calls, in conjunction with [cycligent.js]
 
 - Multiple backends via Gateway
 - Remote procedure calls via cycligentCall
-- Difference kinds of caches via cycligentCache and cycligentQuery
+- Different kinds of caches via cycligentCache and cycligentQuery
+- Hot cache updates
 - Helpers for dynamically generated downloads
-- Automatic collection of timings to help identify slow Ajax caches and calls.
+- Automatic collection of timings to help identify slow Ajax caches and calls
+- And more!
